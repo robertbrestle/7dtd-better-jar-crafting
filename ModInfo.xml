@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Better Jar Crafting" />
+		<Description value="A 7 Days to Die mod that adds alternative crafting recipes for glass jars." />
+		<Author value="Johtull" />
+		<Version value="1.0.0" />
+		<Website value="https://github.com/robertbrestle/7dtd-better-jar-crafting" />
+	</ModInfo>
+</xml>

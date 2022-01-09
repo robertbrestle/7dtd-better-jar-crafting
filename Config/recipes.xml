@@ -1,0 +1,12 @@
+<configs>
+<append xpath="/recipes">
+	<recipe name="drinkJarEmpty" count="1" craft_time="600">
+		<ingredient name="resourceBrokenGlass" count="3"/>
+		<ingredient name="resourceGlue" count="1"/>
+	</recipe>
+	<recipe name="drinkJarEmpty" count="1" craft_time="600">
+		<ingredient name="resourceBrokenGlass" count="3"/>
+		<ingredient name="resourceDuctTape" count="1"/>
+	</recipe>
+</append>
+</configs>
